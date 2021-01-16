@@ -6,7 +6,11 @@
 
 На тестирование затрачено: 1 час
 
-**В результате тестирования дефектов не выявлено**
+**В результате тестирования были выявлены следующие дефекты**
+
+1. [При отправке номера карты системы American Express вывод приложения выдаёт FAIL](https://github.com/imperfectSD/java_2/issues/1)
+2. [При отправке номера карты системы Diners Club - International вывод приложения выдаёт FAIL](https://github.com/imperfectSD/java_2/issues/2)
+3. [При отправке номера карты системы Diners Club - Carte Blanche вывод приложения выдаёт FAIL](https://github.com/imperfectSD/java_2/issues/3)
 
 **В качестве тестовых данных использовались данные:**
 
